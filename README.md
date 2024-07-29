@@ -11,7 +11,7 @@ Add segmentation masks to COCO detection dataset
 
 3. COCO json files put to `dataset` dir
 - dataset/annotation.json
-- images dir for image files
+- dataset/images dir for image files
 
 4. Install [mmdetection](https://github.com/open-mmlab/mmdetection) and [mmyolo](https://github.com/open-mmlab/mmyolo)
 
