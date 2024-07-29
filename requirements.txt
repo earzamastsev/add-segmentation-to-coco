@@ -1,0 +1,10 @@
+matplotlib==3.9.1
+numpy==2.0.1
+Pillow==10.4.0
+pycocotools==2.0.8
+segment_anything==1.0
+Shapely==2.0.5
+skimage==0.0
+torch==2.0.1
+torchmetrics==1.4.0.post0
+tqdm==4.65.2
